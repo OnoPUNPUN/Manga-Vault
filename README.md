@@ -1,35 +1,33 @@
 # 🎉 Manga Vault - Premium Manga Store 🎉
-
 Welcome to **Manga Vault**, a sleek mobile app designed to offer premium quality manga to enthusiasts! 🌟 Browse, add to cart, and enjoy a seamless shopping experience with beautifully crafted interfaces. 📱
 
 ## 📸 Screenshots
 
 ### Shop Page
 Explore a curated list of premium manga titles with stunning visuals!  
-![Shop Page](https://github.com/OnoPUNPUN/Manga-Vault/blob/main/Screen%20Shots/S1.png)
+<img src="https://github.com/OnoPUNPUN/Manga-Vault/blob/main/Screen%20Shots/S1.png" width="300" alt="Shop Page">
 
 ### Cart Page (Empty)
 A clean and minimalistic cart view when no items are added.  
-![Empty Cart](https://github.com/OnoPUNPUN/Manga-Vault/blob/main/Screen%20Shots/S2.png)
+<img src="https://github.com/OnoPUNPUN/Manga-Vault/blob/main/Screen%20Shots/S2.png" width="300" alt="Empty Cart">
 
 ### Cart Page (With Items)
 View your selected manga and manage your cart with ease.  
-![Cart with Items](https://github.com/OnoPUNPUN/Manga-Vault/blob/main/Screen%20Shots/S3.png)
+<img src="https://github.com/OnoPUNPUN/Manga-Vault/blob/main/Screen%20Shots/S3.png" width="300" alt="Cart with Items">
 
 ### Add to Cart Prompt
 Interactive prompts to add items to your cart.  
-![Add to Cart](https://github.com/OnoPUNPUN/Manga-Vault/blob/main/Screen%20Shots/S4.png)
+<img src="https://github.com/OnoPUNPUN/Manga-Vault/blob/main/Screen%20Shots/S4.png" width="300" alt="Add to Cart">
 
 ### Remove from Cart Prompt
 Easily remove items with a confirmation dialog.  
-![Remove from Cart](https://github.com/OnoPUNPUN/Manga-Vault/blob/main/Screen%20Shots/S5.png)
+<img src="https://github.com/OnoPUNPUN/Manga-Vault/blob/main/Screen%20Shots/S5.png" width="300" alt="Remove from Cart">
 
 ### Cart Page (Updated)
 Updated cart view after modifications.  
-![Updated Cart](https://github.com/OnoPUNPUN/Manga-Vault/blob/main/Screen%20Shots/S6.png)
+<img src="https://github.com/OnoPUNPUN/Manga-Vault/blob/main/Screen%20Shots/S6.png" width="300" alt="Updated Cart">
 
 ## 📂 Project Structure
-
 ```
 lib/
 ├── components/
